@@ -1,0 +1,28 @@
+body{
+    font-family: Bradley Hand, cursive	;
+    background-color: rgb(255, 221, 0);
+    text-align: center;
+}
+#text{
+    background-color: transparent;
+    border: none;
+    border-bottom: 3px solid black;
+    outline: none;
+    font-family: Bradley Hand, cursive;
+    font-size: large;
+}
+h1{
+    font-size: 50px;
+}
+button{
+    background-color: rgb(46, 116, 118);
+    border: none;
+    color: rgb(255, 221, 0);
+    border-radius: 10px;
+    height: 25px;
+    width: 50px;
+    cursor: pointer;
+}
+img{
+    cursor: pointer;
+}
